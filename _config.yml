@@ -1,0 +1,3 @@
+name: Don't freak out
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
